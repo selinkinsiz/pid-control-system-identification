@@ -372,3 +372,4 @@ function out = ternary(cond, a, b)
 % small helper: returns a if cond is true, otherwise returns b
     if cond, out = a; else, out = b; end
 end
+

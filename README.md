@@ -17,12 +17,11 @@ The dataset includes measured time and output response values used for system id
 ## Tools Used
 - MATLAB
 - Control System Toolbox
-- Simulink (if applicable)
+- Simulink
 
 ## Repository Structure
 - data/ → Measured dataset used for identification
 - code/ → MATLAB scripts for modeling and controller design
-- simulation/ → Simulink model (if available)
 - report/ → Full project report
 
 ## Results
